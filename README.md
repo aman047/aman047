@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aman047
+- 👋 Hi, I’m Aman Jain
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JAVASCRIPT/HTML/CSS/ DSA.
 - 💞️ I’m looking to collaborate on I'm open to anything and everything.
