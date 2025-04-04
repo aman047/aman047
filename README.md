@@ -10,7 +10,7 @@
 
 🚀 Projects:
 - [🧠 Financial Risk Analysis](https://github.com/aman047/Financial-Risk-Analysis)
-- [🌱 Crop Disease Detection](https://github.com/aman047/Crop-Disease-Prediction)
+- [🌱 Plant Disease Detection](https://github.com/aman047/Plant-Disease-Detection)
 - [🌍 Portfolio Website](https://aman047.github.io/aman/)
 
 🛠️ Skills:
