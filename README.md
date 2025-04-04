@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Aman Jain
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JAVASCRIPT/HTML/CSS/ DSA.
-- 💞️ I’m looking to collaborate on I'm open to anything and everything.
-- 📫 How to reach me you can email me at atj0509@gmail.com
+<h1 align="center">Hi 👋, I'm Aman Jain</h1>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | ML | Streamlit</h3>
 
-<!---
-aman047/aman047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌱 I’m currently working on:
+- 🌿 Real-time Plant Disease Detection System (DL + Streamlit)
+- 📊 Financial Risk Assessment Dashboard (Power BI + Python)
+- 🧪 Learning Spark, NiFi, BigQuery
+
+🚀 Projects:
+- [🧠 Financial Risk Analysis](https://github.com/aman047/Financial-Risk-Analysis)
+- [🌱 Crop Disease Detection](https://github.com/aman047/Crop-Disease-Prediction)
+- [🌍 Portfolio Website](https://aman047.github.io/aman/)
+
+🛠️ Skills:
+- **Languages:** Python, SQL, JavaScript
+- **Tools:** Power BI, Streamlit, Excel, Git, FastAPI
+- **Data:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Cloud:** AWS (Basics), GCP (BigQuery)
+
+📫 How to reach me:  
+[![Gmail Badge](https://img.shields.io/badge/-amanjain0411@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amanjain0411@gmail.com)
+
+📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman047&show_icons=true&theme=radical" />
+</p>
+
